@@ -20,45 +20,46 @@
 ## 💻 My Skills
 
 ### 👉 Programming Languages
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48">](https://www.cplusplus.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48">](https://www.cprogramming.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48">](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48">](https://www.java.com/)
+<a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" height="20"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="20"></a>
 
 ### 👉 Frontend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48">](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48">](https://tailwindcss.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="48" height="48">](https://sass-lang.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48">](https://getbootstrap.com/)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="20"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="20"></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" height="20"></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="20"></a>&nbsp;&nbsp;
+<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="20"></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="20"></a>
 
 ### 👉 Backend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48">](https://nodejs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48">](https://expressjs.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48">](https://flask.palletsprojects.com/)
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="20"></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="20"></a>&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="20"></a>
 
 ### 👉 Databases & Cloud Hosting
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48">](https://www.mysql.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48">](https://www.sqlite.org/)
-[<img src="https://www.vectorlogo.zone/logos/github_pages/github_pages-icon.svg" alt="GitHub Pages" width="48" height="48">](https://pages.github.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="48" height="48">](https://www.heroku.com/)
-[<img src="https://seeklogo.com/images/V/vercel-logo-8EDE6F80D0-seeklogo.com.png" alt="Vercel" width="48" height="48">](https://vercel.com/)
-[<img src="https://seeklogo.com/images/S/streamlit-logo-29D9E9F7FA-seeklogo.com.png" alt="Streamlit" width="48" height="48">](https://streamlit.io/)
-[<img src="https://seeklogo.com/images/N/netlify-logo-0F3C2E67AC-seeklogo.com.png" alt="Netlify" width="48" height="48">](https://www.netlify.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48">](https://firebase.google.com/)
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="20"></a>&nbsp;&nbsp;
+<a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHubPages-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" height="20"></a>&nbsp;&nbsp;
+<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="20"></a>&nbsp;&nbsp;
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="20"></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="20"></a>
 
 ### 👉 Software & Tools
-[<img src="https://seeklogo.com/images/A/adobe-logo-CA9A37C225-seeklogo.com.png" alt="Adobe" width="48" height="48">](https://www.adobe.com/)
-[<img src="https://seeklogo.com/images/G/google-colab-logo-8742DBD3F4-seeklogo.com.png" alt="Colab" width="48" height="48">](https://colab.research.google.com/)
-[<img src="https://seeklogo.com/images/C/codepen-logo-94E1D3C2B6-seeklogo.com.png" alt="Codepen" width="48" height="48">](https://codepen.io/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48">](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48">](https://www.kernel.org/)
-[<img src="https://seeklogo.com/images/G/google-sheets-icon-logo-44252B2F13-seeklogo.com.png" alt="Google Sheets" width="48" height="48">](https://www.google.com/sheets/about/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48">](https://code.visualstudio.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48">](https://jupyter.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="48" height="48">](https://stackoverflow.com/)
+<a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" height="20"></a>&nbsp;&nbsp;
+<a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" height="20"></a>&nbsp;&nbsp;
+<a href="https://codepen.io/"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" height="20"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="20"></a>&nbsp;&nbsp;
+<a href="https://www.google.com/sheets/about/"><img src="https://img.shields.io/badge/GoogleSheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" height="20"></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="20"></a>&nbsp;&nbsp;
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="20"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="20"></a>
+
 
 
 <h2 align="left">🙋‍♂️ Let's Connect</h2>
