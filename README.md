@@ -13,7 +13,16 @@
 
 <h2 align = "center"> 🔥 About </h2>
 
+
+- 🔭 I’m currently working on **Automated IG Lead Nurturing**
+
+- 🌱 I’m currently learning **AI Agents**
+
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
+
+- 🤝 I’m looking for help with **Automated Job Filling AI**
+
+- 💬 Ask me about **Automation**
 
 - 📫 How to reach me **djkapilesh@gmail.com**
 <br>
