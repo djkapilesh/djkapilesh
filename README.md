@@ -13,7 +13,6 @@
 
 <br>
 <hr>
-<br>
 
 
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
