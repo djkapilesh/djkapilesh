@@ -60,7 +60,7 @@
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="20"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="20"></a>
 
-
+<br>
 
 <h2 align="left">🙋‍♂️ Let's Connect</h2>
 <p align="left">
