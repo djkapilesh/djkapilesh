@@ -11,7 +11,7 @@
   I am a Computer Science undergrad from VIT. I like to code, create, experiment, and bring ideas to life.
 </h4>
 
-<hr style="border:0.5px solid #d1d5da; width:50%;">
+<hr style="border:0.1px solid #d1d5da; width:50%;">
 
 
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
