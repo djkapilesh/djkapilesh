@@ -1,9 +1,18 @@
 <h1 align="center">
-  Hi , I'm Kapilesh DJ 
+  Hi, I'm Kapilesh DJ 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Kapilesh+DJ;CSE+Graduate+🎓;Web+Developer+💻;AI+and+Automation+Enthusiast+🤖)](https://git.io/typing-svg)
-<h3 align="center">A passionate Full Stack developer from India</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Kapilesh+DJ;CSE+Graduate+🎓;Web+Developer+💻;AI+and+Automation+Enthusiast+🤖&center=true&width=500&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">
+  A passionate Full Stack Developer from India 🇮🇳
+</h3>
+
 
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
 
