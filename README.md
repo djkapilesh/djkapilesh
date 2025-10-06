@@ -11,7 +11,6 @@
   I am a Computer Science undergrad from VIT. I like to code, create, experiment, and bring ideas to life.
 </h4>
 
-<br>
 <hr>
 
 
