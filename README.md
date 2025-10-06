@@ -20,45 +20,45 @@
 ## 💻 My Skills
 
 ### 👉 Programming Languages
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.cplusplus.com/)
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://www.cprogramming.com/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48">](https://www.cplusplus.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48">](https://www.cprogramming.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48">](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48">](https://www.java.com/)
 
 ### 👉 Frontend Development
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)
-[![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)](https://tailwindcss.com/)
-[![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)](https://sass-lang.com/)
-[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)](https://getbootstrap.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48">](https://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48">](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="48" height="48">](https://sass-lang.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48">](https://getbootstrap.com/)
 
 ### 👉 Backend Development
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
-[![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)](https://expressjs.com/)
-[![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)](https://flask.palletsprojects.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48">](https://nodejs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48">](https://expressjs.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48">](https://flask.palletsprojects.com/)
 
 ### 👉 Databases & Cloud Hosting
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
-[![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org/)
-[![GitHub Pages](https://www.vectorlogo.zone/logos/github_pages/github_pages-icon.svg)](https://pages.github.com/)
-[![Heroku](https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg)](https://www.heroku.com/)
-[![Vercel](https://seeklogo.com/images/V/vercel-logo-8EDE6F80D0-seeklogo.com.png)](https://vercel.com/)
-[![Streamlit](https://seeklogo.com/images/S/streamlit-logo-29D9E9F7FA-seeklogo.com.png)](https://streamlit.io/)
-[![Netlify](https://seeklogo.com/images/N/netlify-logo-0F3C2E67AC-seeklogo.com.png)](https://www.netlify.com/)
-[![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg)](https://firebase.google.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48">](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48">](https://www.sqlite.org/)
+[<img src="https://www.vectorlogo.zone/logos/github_pages/github_pages-icon.svg" alt="GitHub Pages" width="48" height="48">](https://pages.github.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="48" height="48">](https://www.heroku.com/)
+[<img src="https://seeklogo.com/images/V/vercel-logo-8EDE6F80D0-seeklogo.com.png" alt="Vercel" width="48" height="48">](https://vercel.com/)
+[<img src="https://seeklogo.com/images/S/streamlit-logo-29D9E9F7FA-seeklogo.com.png" alt="Streamlit" width="48" height="48">](https://streamlit.io/)
+[<img src="https://seeklogo.com/images/N/netlify-logo-0F3C2E67AC-seeklogo.com.png" alt="Netlify" width="48" height="48">](https://www.netlify.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48">](https://firebase.google.com/)
 
 ### 👉 Software & Tools
-[![Adobe](https://seeklogo.com/images/A/adobe-logo-CA9A37C225-seeklogo.com.png)](https://www.adobe.com/)
-[![Google Colab](https://seeklogo.com/images/G/google-colab-logo-8742DBD3F4-seeklogo.com.png)](https://colab.research.google.com/)
-[![Codepen](https://seeklogo.com/images/C/codepen-logo-94E1D3C2B6-seeklogo.com.png)](https://codepen.io/)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.kernel.org/)
-[![Google Sheets](https://seeklogo.com/images/G/google-sheets-icon-logo-44252B2F13-seeklogo.com.png)](https://www.google.com/sheets/about/)
-[![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
-[![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg)](https://jupyter.org/)
-[![Stack Overflow](https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg)](https://stackoverflow.com/)
+[<img src="https://seeklogo.com/images/A/adobe-logo-CA9A37C225-seeklogo.com.png" alt="Adobe" width="48" height="48">](https://www.adobe.com/)
+[<img src="https://seeklogo.com/images/G/google-colab-logo-8742DBD3F4-seeklogo.com.png" alt="Colab" width="48" height="48">](https://colab.research.google.com/)
+[<img src="https://seeklogo.com/images/C/codepen-logo-94E1D3C2B6-seeklogo.com.png" alt="Codepen" width="48" height="48">](https://codepen.io/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48">](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48">](https://www.kernel.org/)
+[<img src="https://seeklogo.com/images/G/google-sheets-icon-logo-44252B2F13-seeklogo.com.png" alt="Google Sheets" width="48" height="48">](https://www.google.com/sheets/about/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48">](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48">](https://jupyter.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="48" height="48">](https://stackoverflow.com/)
 
 
 <h2 align="left">🙋‍♂️ Let's Connect</h2>
