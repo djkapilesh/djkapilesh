@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&width=500&lines=CSE+Graduate;Web+Development;AI+%26+Automation+Enthusiast;Building+Automated+Job+Application+AI" alt="Typing SVG" />
 </p>
 
-<h5 align="center">
+<h4 align="center">
   I am a Computer Science undergrad from VIT. I like to code, create, experiment, and bring ideas to life.
-</h5>
+</h4>
 
 
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
