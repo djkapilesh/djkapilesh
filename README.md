@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kapilesh DJ</h1>
+<h1 align="center">
+  Hi, I'm Kapilesh DJ 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
+</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
