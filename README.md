@@ -70,9 +70,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;
 
-  <!-- Gmail -->
+  <!-- Gmail (working) -->
   <a href="mailto:djkapilesh@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-icon.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>&nbsp;&nbsp;
 
   <!-- Instagram -->
