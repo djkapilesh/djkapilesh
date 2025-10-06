@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&width=500&lines=CSE+Graduate;Web+Development;AI+%26+Automation+Enthusiast;Building+Automated+Job+Application+AI" alt="Typing SVG" />
 </p>
 
-<h3 align="center">
-  A passionate Full Stack Developer from India 🇮🇳
-</h3>
+<p align="center">
+  I am a Computer Science undergrad from VIT. I like to code, create, experiment, and bring ideas to life.
+</p>
 
 
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
