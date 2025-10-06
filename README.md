@@ -16,6 +16,7 @@
 - 👯 I’m looking to collaborate on **Automated Job Application AI**
 
 - 📫 How to reach me **djkapilesh@gmail.com**
+<br>
 
 ## 💻 My Skills
 
@@ -68,5 +69,5 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/kapileshdj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kapileshdj/" height="30" width="40" /></a>
 </p>
 
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djkapilesh&show_icons=true&locale=en&layout=compact" alt="djkapilesh" /></p>
