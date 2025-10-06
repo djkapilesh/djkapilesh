@@ -17,7 +17,51 @@
 
 - 📫 How to reach me **djkapilesh@gmail.com**
 
-<h3 align="left">🙋‍♂️ Let's Connect</h3>
+## 💻 My Skills
+
+### 👉 Programming Languages
+[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.cplusplus.com/)
+[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://www.cprogramming.com/)
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
+
+### 👉 Frontend Development
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)
+[![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)](https://tailwindcss.com/)
+[![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)](https://sass-lang.com/)
+[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)](https://getbootstrap.com/)
+
+### 👉 Backend Development
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
+[![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)](https://expressjs.com/)
+[![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)](https://flask.palletsprojects.com/)
+
+### 👉 Databases & Cloud Hosting
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+[![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org/)
+[![GitHub Pages](https://www.vectorlogo.zone/logos/github_pages/github_pages-icon.svg)](https://pages.github.com/)
+[![Heroku](https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg)](https://www.heroku.com/)
+[![Vercel](https://seeklogo.com/images/V/vercel-logo-8EDE6F80D0-seeklogo.com.png)](https://vercel.com/)
+[![Streamlit](https://seeklogo.com/images/S/streamlit-logo-29D9E9F7FA-seeklogo.com.png)](https://streamlit.io/)
+[![Netlify](https://seeklogo.com/images/N/netlify-logo-0F3C2E67AC-seeklogo.com.png)](https://www.netlify.com/)
+[![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg)](https://firebase.google.com/)
+
+### 👉 Software & Tools
+[![Adobe](https://seeklogo.com/images/A/adobe-logo-CA9A37C225-seeklogo.com.png)](https://www.adobe.com/)
+[![Google Colab](https://seeklogo.com/images/G/google-colab-logo-8742DBD3F4-seeklogo.com.png)](https://colab.research.google.com/)
+[![Codepen](https://seeklogo.com/images/C/codepen-logo-94E1D3C2B6-seeklogo.com.png)](https://codepen.io/)
+[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
+[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.kernel.org/)
+[![Google Sheets](https://seeklogo.com/images/G/google-sheets-icon-logo-44252B2F13-seeklogo.com.png)](https://www.google.com/sheets/about/)
+[![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
+[![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg)](https://jupyter.org/)
+[![Stack Overflow](https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg)](https://stackoverflow.com/)
+
+
+<h2 align="left">🙋‍♂️ Let's Connect</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kapileshdj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapileshdj/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/kapileshdj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kapileshdj/" height="30" width="40" /></a>
